@@ -1,4 +1,4 @@
-# Hi there, I'm Pranav Kakade! 👋
+# Hi there, I'm Pranav! 👋
 
 Welcome to my GitHub profile! I'm an enthusiastic engineering student passionate about technology, programming, and building innovative solutions. My journey revolves around learning, coding, and exploring new technologies.
 
