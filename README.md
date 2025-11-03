@@ -30,7 +30,7 @@ I enjoy combining **AI algorithms, web development, and creative problem-solving
 
 #### 🌐 Web Development  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,streamlit,bootstrap" height="45" />
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,bootstrap" height="45" />
 </p>
 
 #### ⚙️ DevOps / Tools  
