@@ -20,7 +20,7 @@ I enjoy combining **AI algorithms, web development, and creative problem-solving
 
 #### 👨‍💻 Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript" height="45" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript" height="45" />
 </p>
 
 #### 🧠 AI / ML & Data Science  
