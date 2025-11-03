@@ -1,51 +1,91 @@
-# Hi there, I'm Pranav! 👋
-
-Welcome to my GitHub profile! I'm an enthusiastic engineering student passionate about technology, programming, and building innovative solutions. My journey revolves around learning, coding, and exploring new technologies.
-
----
-
-## 🚀 About Me
-- 🌱 I’m currently honing my skills in **AI/ML**, **Python**, **Java**, and **C++**.
-- 💻 I enjoy solving complex problems and contributing to open-source projects.
-- 🎯 My goal is to build impactful applications and contribute to the tech community.
+<h1 align="center">👋 Hey, I'm Pranav Kakade</h1>
+<h3 align="center">🚀 AI & ML Enthusiast | Python Developer | Web Innovator | Streamlit & DevOps Explorer</h3>
 
 ---
 
-## 🛠️ Skills & Technologies
+### 💡 About Me  
 
-- **Languages:** Python, Java, C++
-- **Domains:** Artificial Intelligence, Machine Learning
-- **Tools:** Git, VS Code, Jupyter Notebook, Eclipse
-- **Other Interests:** Data Science, Software Development
+I'm a passionate **Computer Science Engineer (AI & ML)** focused on building intelligent, data-driven, and scalable solutions.  
+I enjoy combining **AI algorithms, web development, and creative problem-solving** to bring impactful projects to life.  
 
----
-
-## 📈 GitHub Stats
-
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranav-Kakade&show_icons=true&theme=radical)
+- 🎓 B.Tech in **Computer Science (AI & ML)**  
+- 🧠 Exploring **Streamlit**, **Flask**, and **AI-driven optimization**  
+- 🧬 Experienced in **Machine Learning, Neural Networks, and Genetic Algorithms**  
+- ☁️ Learning **DevOps + Cloud Deployment**  
+- ⚡ Fun fact: I love building apps that blend **AI + UI elegance**
 
 ---
 
-## 📫 Connect with Me
+### 🧰 Tech Stack  
 
-- **Email:** [pranavkakade@example.com](mailto:pranavkakade@example.com)
-- **LinkedIn:** [linkedin.com/in/pranavkakade](https://www.linkedin.com/in/pranavkakade)
-- **Portfolio:** [pranavkakade.dev](https://pranavkakade.dev)
+#### 👨‍💻 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript" height="45" />
+</p>
+
+#### 🧠 AI / ML & Data Science  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas,scikitlearn,opencv" height="45" />
+</p>
+
+#### 🌐 Web Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,streamlit,bootstrap" height="45" />
+</p>
+
+#### ⚙️ DevOps / Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" height="45" />
+</p>
+
+#### ☁️ Cloud & Deployment  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp" height="45" />
+</p>
 
 ---
 
-## 🌟 Featured Projects
+### 🚀 Featured Projects  
 
-- **[AI Chatbot](https://github.com/Pranav-Kakade/AI-Chatbot):** A chatbot built using Python and NLP techniques.
-- **[Portfolio Website](https://github.com/Pranav-Kakade/Portfolio):** A responsive portfolio website showcasing my projects and skills.
+- 🚗 **Smart Vehicle Routing using Genetic Algorithms**  
+  *Optimizing multi-vehicle routes using AI and Flask visualization.*
+
+- 📈 **Stock Price Prediction App**  
+  *Streamlit-based dashboard predicting stock trends using ML models.*
+
+- 🧾 **Insurance Premium API (Dockerized)**  
+  *Deployed on Docker Hub → [`blackbox99/insurance-premium-api`](https://hub.docker.com/r/blackbox99/insurance-premium-api)*
+
+- 🤖 **Spam Detection System**  
+  *Text classification using NLP & Machine Learning.*
 
 ---
 
-## 🖼️ Profile Banner
+### ⚙️ GitHub Stats  
 
-![Profile Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+Pranav's+GitHub+Profile!)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PranavKakade&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavKakade&theme=tokyonight" />
+</p>
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me for collaboration or discussions. Let's build something amazing together! 🚀
+### 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/PranavKakade"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+  <a href="https://www.linkedin.com/in/pranav-kakade"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="mailto:pranavkakade@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+</p>
+
+---
+
+### ✨ Motto  
+
+> *“Build intelligent systems that simplify life — not complicate it.”*  
+
+---
+
+⭐ **Thanks for visiting my profile!** Keep exploring, learning, and innovating 🚀
+
 
