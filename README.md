@@ -1,7 +1,8 @@
 <!-- 🌌 Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00C6FF,100:0072FF&text=Pranav%20Kakade%20🚀&fontColor=ffffff&fontSize=45&fontAlign=50&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20|%20FastAPI%20%26%20Streamlit%20Developer%20|%20DevOps%20Explorer&descSize=16&descAlign=50&descAlignY=60" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00C6FF,100:0072FF&text=Pranav%20Kakade%20🚀&fontColor=ffffff&fontSize=45&fontAlign=50&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20FastAPI%20%26%20Streamlit%20Developer%20%7C%20DevOps%20Explorer&descSize=16&descAlign=50&descAlignY=60" alt="Pranav Kakade banner"/>
 </p>
+
 
 <!-- Typing Animation Header -->
 <h1 align="center">
