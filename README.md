@@ -1,18 +1,22 @@
-<h1 align="center">👋 Hey, I'm Pranav Kakade</h1>
-<h3 align="center">🚀 AI & ML Enthusiast | Python Developer | Web Innovator | Streamlit & DevOps Explorer</h3>
+<!-- Typing Animation Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Pranav+Kakade!;AI+%26+ML+Engineer+%F0%9F%A4%96;Python+%26+FastAPI+Developer+%F0%9F%90%8D;Streamlit+App+Builder+%F0%9F%9A%80;DevOps+Explorer+%E2%9A%99%EF%B8%8F;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">🚀 AI & ML Enthusiast | Python Developer | Streamlit & DevOps Explorer</h3>
 
 ---
 
 ### 💡 About Me  
 
-I'm a passionate **Computer Science Engineer (AI & ML)** focused on building intelligent, data-driven, and scalable solutions.  
-I enjoy combining **AI algorithms, web development, and creative problem-solving** to bring impactful projects to life.  
+I'm a passionate **Computer Science Engineer (AI & ML)** who loves building intelligent, scalable, and creative tech solutions.  
+I combine **Machine Learning, FastAPI, and Streamlit** to bring powerful AI systems to life.  
 
 - 🎓 B.Tech in **Computer Science (AI & ML)**  
-- 🧠 Exploring **Streamlit**, **Flask**, and **AI-driven optimization**  
-- 🧬 Experienced in **Machine Learning, Neural Networks, and Genetic Algorithms**  
-- ☁️ Learning **DevOps + Cloud Deployment**  
-- ⚡ Fun fact: I love building apps that blend **AI + UI elegance**
+- 🧠 Exploring **FastAPI**, **Streamlit**, and **Cloud-based ML Deployment**  
+- 🧬 Experienced in **Neural Networks, Genetic Algorithms, and Data Science**  
+- ☁️ Learning more about **DevOps + Cloud Integration**  
+- ⚡ Fun fact: I love writing algorithms that make life simpler!  
 
 ---
 
@@ -20,7 +24,7 @@ I enjoy combining **AI algorithms, web development, and creative problem-solving
 
 #### 👨‍💻 Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript" height="45" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript" height="45" />
 </p>
 
 #### 🧠 AI / ML & Data Science  
@@ -30,7 +34,7 @@ I enjoy combining **AI algorithms, web development, and creative problem-solving
 
 #### 🌐 Web Development  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi" height="45" />
+  <img src="https://skillicons.dev/icons?i=fastapi,bootstrap" height="45" />
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/main/streamlit.svg" height="45" title="Streamlit" />
 </p>
 
@@ -60,6 +64,16 @@ I enjoy combining **AI algorithms, web development, and creative problem-solving
 - 🤖 **Spam Detection System**  
   *Text classification using NLP & Machine Learning.*
 
+---
+
+### ⚙️ GitHub Stats  
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PranavKakade&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavKakade&theme=tokyonight" />
+</p>
+
+---
 
 ### 🌐 Connect With Me  
 
@@ -78,5 +92,6 @@ I enjoy combining **AI algorithms, web development, and creative problem-solving
 ---
 
 ⭐ **Thanks for visiting my profile!** Keep exploring, learning, and innovating 🚀
+
 
 
