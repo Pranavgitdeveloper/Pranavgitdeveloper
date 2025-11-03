@@ -30,7 +30,8 @@ I enjoy combining **AI algorithms, web development, and creative problem-solving
 
 #### 🌐 Web Development  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,bootstrap" height="45" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="45" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/main/streamlit.svg" height="45" title="Streamlit" />
 </p>
 
 #### ⚙️ DevOps / Tools  
